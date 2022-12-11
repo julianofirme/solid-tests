@@ -1,0 +1,1 @@
+## Just a simple project to pratice SOLID and tests
